@@ -13,3 +13,5 @@ Les vidéos sont des aperçus animés de captures réelles du build commercial 1
 [Politique de confidentialité](https://xerxex52.github.io/CPU-Decoded/privacy.html) · [Assistance](https://xerxex52.github.io/CPU-Decoded/support.html)
 
 © 2026 Soheil RAMEZANI
+
+Découvrez aussi [Circuit Detective](https://xerxex52.github.io/Circuit-Detective/), une autre application du même créateur pour explorer l’électronique.
