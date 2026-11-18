@@ -1,17 +1,17 @@
 # CPU Decoded
 
-Du premier bit à votre propre processeur 4 bits.
+Construisez votre ordinateur 4 bits, à partir de zéro, avec 72 missions guidées et un atelier libre.
 
-72 missions pour construire les circuits, comprendre le CPU et le programmer en assembleur. Atelier libre, cours et projets pour iPhone et iPad.
+[Français](https://xerxex52.github.io/CPU-Decoded/) · [English](https://xerxex52.github.io/CPU-Decoded/en/) · [Español](https://xerxex52.github.io/CPU-Decoded/es/) · [Deutsch](https://xerxex52.github.io/CPU-Decoded/de/)
 
-[Découvrir le jeu et la vidéo](https://xerxex52.github.io/CPU-Decoded/) · [English](https://xerxex52.github.io/CPU-Decoded/en/) · [Español](https://xerxex52.github.io/CPU-Decoded/es/) · [Deutsch](https://xerxex52.github.io/CPU-Decoded/de/)
+Site public mis à jour le 18 novembre 2026. Interface, captures et vidéos de la version 1.0 (build 22). La version 1.0 est en préparation pour l’App Store. Prix prévu en France : 6,99 € (achat unique).
 
-Version 1.0 en préparation pour l’App Store. Prix prévu en France : 7,99 € (achat unique).
+Les vidéos durent 29 secondes et montrent des enregistrements réels de l’application, avec les textes des bannières validées. Les versions web sont compressées, sans piste audio, et accompagnées de sous-titres et d’un déroulé textuel. Les captures restent entières, avec leur orientation d’origine. Aucun écran de l’application n’est redessiné.
 
-Les vidéos sont des aperçus animés de captures réelles du build commercial 1.0 (2), sans son. Elles ne sont pas des enregistrements d’une partie.
+Site statique, sans dépendance JavaScript externe, suivi ni cookies. Publication GitHub Pages depuis `main`. Les quatre pages utilisent `style.css` et `site.js`. Les médias actuels sont dans `assets/build22/`.
 
-[Politique de confidentialité](https://xerxex52.github.io/CPU-Decoded/privacy.html) · [Assistance](https://xerxex52.github.io/CPU-Decoded/support.html)
+Les ancres historiques `/#fr`, `/#en`, `/#es`, `/#de` continuent d’ouvrir la politique de confidentialité utilisée par l’application.
+
+[Confidentialité](https://xerxex52.github.io/CPU-Decoded/privacy.html) · [Assistance](https://xerxex52.github.io/CPU-Decoded/support.html)
 
 © 2026 Soheil RAMEZANI
-
-Découvrez aussi [Circuit Detective](https://xerxex52.github.io/Circuit-Detective/), une autre application du même créateur pour explorer l’électronique.
